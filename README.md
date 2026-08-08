@@ -1,16 +1,22 @@
-## Hi there 👋
+# Ravi | AI Engineer
 
-<!--
-**AIERAVI/AIERAVI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer focused on Generative AI, RAG, Azure AI and LLM applications.
 
-Here are some ideas to get you started:
+### Tech Stack
+- Python
+- Python Libraries 
+- Data Handling 
+- AI Search
+- RAG
+- LLMs
+- Embeddings
+- Vector Search
+- LangChain
+- NLP
+- Security 
+### Featured Projects  
+Document Intelligence AI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me
+- GitHub: https://github.com/AIERAVI
+- LinkedIn: 
