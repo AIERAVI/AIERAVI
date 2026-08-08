@@ -1,4 +1,4 @@
-# Ravi | AI Engineer
+# Ravikumar|AI Engineer
 
 AI Engineer focused on Generative AI, RAG, Azure AI and LLM applications.
 
