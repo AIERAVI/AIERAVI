@@ -19,4 +19,4 @@ Document Intelligence AI
 
 ### Connect with me
 - GitHub: https://github.com/AIERAVI
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/aieravi
