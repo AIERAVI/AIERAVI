@@ -1,6 +1,6 @@
 # Ravikumar|AI Engineer
 
-AI Engineer focused on Generative AI, RAG, Azure AI and LLM applications.
+AI Engineer focused on Generative AI, RAG, Cloud AI and LLM applications.
 
 ### Tech Stack
 - Python
