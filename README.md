@@ -1,241 +1,95 @@
 <div align="center">
 
-# <img src="https://img.shields.io/badge/%3E_-00E5FF?style=flat-square&labelColor=050A12&color=050A12" alt="prompt"> RAVIKUMAR TARAR
+# Hi, I'm Ravikumar Tarar
 
-### <code>AI ENGINEER</code> &nbsp; <code>•</code> &nbsp; <code>MACHINE LEARNING</code> &nbsp; <code>•</code> &nbsp; <code>GENERATIVE AI</code>
+### AI Engineer | Machine Learning | Generative AI
 
-<br>
+<p>
+  <a href="https://github.com/AIERAVI">
+    <img src="https://img.shields.io/badge/GitHub-AIERAVI-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/aieravi">
+    <img src="https://img.shields.io/badge/LinkedIn-AIERAVI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/@aieravi">
+    <img src="https://img.shields.io/badge/YouTube-AIERAVI-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/aieravi">
+    <img src="https://img.shields.io/badge/Instagram-@AIERAVI-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=780&lines=BUILDING+PRACTICAL+AI+SYSTEMS;MACHINE+LEARNING+%7C+RAG+%7C+LLMs;DOCUMENT+INTELLIGENCE+%7C+COMPUTER+VISION;LEARN+%E2%86%92+BUILD+%E2%86%92+ITERATE+%E2%86%92+DEPLOY" alt="AI Engineer">
-
-<br><br>
-
-<a href="https://github.com/AIERAVI">
-<img src="https://img.shields.io/badge/GITHUB-AIERAVI-050A12?style=for-the-badge&logo=github&logoColor=00E5FF">
-</a>
-<a href="https://www.linkedin.com/in/aieravi">
-<img src="https://img.shields.io/badge/LINKEDIN-AIERAVI-050A12?style=for-the-badge&logo=linkedin&logoColor=00E5FF">
-</a>
-<a href="https://www.youtube.com/@aieravi">
-<img src="https://img.shields.io/badge/YOUTUBE-AIERAVI-050A12?style=for-the-badge&logo=youtube&logoColor=00E5FF">
-</a>
-<a href="https://www.instagram.com/aieravi">
-<img src="https://img.shields.io/badge/INSTAGRAM-@AIERAVI-050A12?style=for-the-badge&logo=instagram&logoColor=00E5FF">
-</a>
-
-<br><br>
-
-<code>◉ SYSTEM ONLINE</code>
-&nbsp;&nbsp;&nbsp;
-<code>◈ AIERAVI</code>
-&nbsp;&nbsp;&nbsp;
-<code>▸ BUILDING AI</code>
+<p>
+  <a href="mailto:ravitarar.ai@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="62%" valign="top">
+## About Me
 
-## <code>01</code> / PROFILE
+I'm **Ravikumar Tarar**, an AI Engineer focused on building practical AI and machine learning applications.
 
-I'm **Ravikumar Tarar**, an **AI Engineer** focused on building practical AI and machine learning applications.
+My areas of interest include:
 
-My primary areas of focus are:
+- Machine Learning
+- Generative AI & LLMs
+- Retrieval-Augmented Generation (RAG)
+- Document Intelligence
+- Computer Vision
+- AI Application Development
 
-`Machine Learning`  
-`Generative AI`  
-`LLMs`  
-`RAG`  
-`Document Intelligence`  
-`Computer Vision`
-
-I prefer a **build-first approach**: understand the technology, implement it, test it, and turn it into a useful system.
-
-</td>
-
-<td width="38%" valign="top">
-
-## <code>STATUS</code>
-
-```text
-┌─────────────────────────┐
-│ AI ENGINEERING   [ON]   │
-│                         │
-│ ML             ███████░ │
-│ GEN AI         ███████░ │
-│ RAG            ██████░░ │
-│ COMPUTER VISION ██████░ │
-│                         │
-│ MODE: BUILDING          │
-└─────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
+I enjoy learning by building and turning AI concepts into practical projects.
 
 ---
 
-<div align="center">
+## Tech Stack
 
-## <code>02</code> / CORE DOMAINS
+### Programming
 
-<table>
-<tr>
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python">
+</p>
 
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="48" alt="AI">
-<br>
-<code>AI / ML</code>
-<br><sub>Machine Learning</sub>
-</td>
+### Data & Visualization
 
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/brain.png" width="48" alt="Generative AI">
-<br>
-<code>GEN AI</code>
-<br><sub>LLMs & RAG</sub>
-</td>
+`NumPy` · `Pandas` · `Matplotlib` · `Plotly`
 
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/document.png" width="48" alt="Document AI">
-<br>
-<code>DOC AI</code>
-<br><sub>Document Intelligence</sub>
-</td>
+### Machine Learning
 
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/visible.png" width="48" alt="Computer Vision">
-<br>
-<code>VISION</code>
-<br><sub>Computer Vision</sub>
-</td>
+`Scikit-learn` · `Machine Learning` · `Model Development`
 
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/code.png" width="48" alt="Engineering">
-<br>
-<code>ENGINEERING</code>
-<br><sub>AI Applications</sub>
-</td>
+### Generative AI
 
-</tr>
-</table>
+`Generative AI` · `LLMs` · `RAG` · `Document Intelligence`
 
-</div>
+### Computer Vision
+
+`YOLOv8` · `OpenCV` · `Object Detection` · `Real-time Vision`
+
+### AI Engineering
+
+`FastAPI` · `OCR` · `AI Applications` · `API Development`
 
 ---
 
-# <code>03</code> / TECHNOLOGY MATRIX
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### <code>◈ PROGRAMMING</code>
-
-<img src="https://skillicons.dev/icons?i=python" width="56" alt="Python">
-
-<br>
-
-`Python`
-
-</td>
-
-<td width="50%" valign="top">
-
-### <code>◈ DATA / VISUALIZATION</code>
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" alt="NumPy Pandas Matplotlib">
-
-<br>
-
-`NumPy` &nbsp; `Pandas` &nbsp; `Matplotlib` &nbsp; `Plotly`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### <code>◈ MACHINE LEARNING</code>
-
-`Scikit-learn`
-
-`Machine Learning`
-
-`Model Development`
-
-</td>
-
-<td width="50%" valign="top">
-
-### <code>◈ GENERATIVE AI</code>
-
-`Generative AI`
-
-`LLMs`
-
-`RAG`
-
-`Document Intelligence`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### <code>◈ COMPUTER VISION</code>
-
-`YOLOv8`
-
-`OpenCV`
-
-`Object Detection`
-
-`Real-time Vision`
-
-</td>
-
-<td width="50%" valign="top">
-
-### <code>◈ AI ENGINEERING</code>
-
-`FastAPI`
-
-`OCR`
-
-`AI Applications`
-
-`API Development`
-
-</td>
-</tr>
-</table>
-
----
-
-# <code>04</code> / FEATURED PROJECTS
+## Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## <code>[ DOC-01 ]</code>
+### Document Intelligence AI
 
-# DOCUMENT INTELLIGENCE
+**Repository:** `document-intelligence-v2`
 
-### `document-intelligence-v2`
+An AI-powered document intelligence project focused on extracting information from documents and enabling intelligent interaction with document content.
 
-AI-powered document intelligence system focused on extracting information from documents and enabling intelligent interaction with document content.
-
-<br>
-
-**STACK**
+**Technologies**
 
 `Python` `RAG` `LLM`  
 `Gemini` `FastAPI` `OCR`
@@ -243,24 +97,20 @@ AI-powered document intelligence system focused on extracting information from d
 <br>
 
 <a href="https://github.com/AIERAVI/document-intelligence-v2">
-<img src="https://img.shields.io/badge/OPEN_REPOSITORY-050A12?style=for-the-badge&logo=github&logoColor=00E5FF">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## <code>[ CV-01 ]</code>
+### Smart Surveillance AI
 
-# SMART SURVEILLANCE
+**Repository:** `Smart-Surveillance-AI`
 
-### `Smart-Surveillance-AI`
+A computer vision based surveillance project for real-time monitoring, object detection, motion detection and automated alerts.
 
-Computer vision based surveillance system for real-time monitoring, object detection, motion detection and automated alerts.
-
-<br>
-
-**STACK**
+**Technologies**
 
 `Python` `YOLOv8`  
 `OpenCV` `Computer Vision`
@@ -268,7 +118,7 @@ Computer vision based surveillance system for real-time monitoring, object detec
 <br>
 
 <a href="https://github.com/AIERAVI/Smart-Surveillance-AI">
-<img src="https://img.shields.io/badge/OPEN_REPOSITORY-050A12?style=for-the-badge&logo=github&logoColor=00E5FF">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -276,159 +126,58 @@ Computer vision based surveillance system for real-time monitoring, object detec
 </tr>
 </table>
 
+---
+
+## Currently Exploring
+
+| Area | Focus |
+|---|---|
+| Machine Learning | Model development, evaluation and practical ML |
+| Generative AI | LLM applications and AI workflows |
+| RAG | Retrieval, embeddings and contextual generation |
+| Document Intelligence | Document understanding and information extraction |
+| Computer Vision | Object detection and real-time vision |
+
+---
+
+## GitHub Statistics
+
 <div align="center">
 
-<code>MORE PROJECTS · IN DEVELOPMENT</code>
+<img src="https://github-readme-stats.vercel.app/api?username=AIERAVI&show_icons=true&hide_border=true&theme=default&include_all_commits=true" width="48%" alt="GitHub Statistics">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIERAVI&layout=compact&hide_border=true&theme=default" width="42%" alt="Top Languages">
 
 </div>
 
 ---
 
-# <code>05</code> / AI SYSTEM FLOW
+## Connect With Me
 
 <div align="center">
-
-```text
-┌─────────────┐       ┌────────────────┐       ┌─────────────────┐
-│    DATA     │ ────► │ PREPROCESSING  │ ────► │  AI / ML MODEL  │
-└─────────────┘       └────────────────┘       └────────┬────────┘
-                                                        │
-                                                        ▼
-                                               ┌─────────────────┐
-                                               │ AI APPLICATION  │
-                                               └────────┬────────┘
-                                                        │
-                                                        ▼
-                                               ┌─────────────────┐
-                                               │  REAL-WORLD USE │
-                                               └─────────────────┘
-```
-
-</div>
-
----
-
-# <code>06</code> / CURRENT FOCUS
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-<code>01</code>
-
-### MACHINE LEARNING
-
-Models  
-Data  
-Evaluation
-
-</td>
-
-<td align="center" width="25%">
-
-<code>02</code>
-
-### GENERATIVE AI
-
-LLMs  
-AI Applications
-
-</td>
-
-<td align="center" width="25%">
-
-<code>03</code>
-
-### RAG SYSTEMS
-
-Retrieval  
-Context  
-Generation
-
-</td>
-
-<td align="center" width="25%">
-
-<code>04</code>
-
-### DOCUMENT AI
-
-OCR  
-Extraction  
-Understanding
-
-</td>
-</tr>
-</table>
-
----
-
-# <code>07</code> / GITHUB ANALYTICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AIERAVI&show_icons=true&hide_border=true&bg_color=050A12&title_color=00E5FF&text_color=D8F3FF&icon_color=00BFFF&include_all_commits=true" width="48%" alt="GitHub statistics">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIERAVI&layout=compact&hide_border=true&bg_color=050A12&title_color=00E5FF&text_color=D8F3FF" width="42%" alt="Top languages">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AIERAVI&theme=github-dark-blue&hide_border=true&background=050A12&ring=00E5FF&fire=00BFFF&currStreakLabel=00E5FF" width="70%" alt="GitHub streak">
-
-</div>
-
----
-
-# <code>08</code> / CONTRIBUTION SIGNAL
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AIERAVI&bg_color=050A12&color=00E5FF&line=00BFFF&point=E0FBFF&area=true&hide_border=true" width="96%" alt="GitHub contribution graph">
-
-</div>
-
----
-
-# <code>09</code> / CONNECT
-
-<div align="center">
-
-## <code>LET'S BUILD SOMETHING INTELLIGENT.</code>
-
-<br>
 
 <a href="mailto:ravitarar.ai@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-ravitarar.ai%40gmail.com-050A12?style=for-the-badge&logo=gmail&logoColor=00E5FF">
+  <img src="https://img.shields.io/badge/Email-ravitarar.ai%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/aieravi">
-<img src="https://img.shields.io/badge/LINKEDIN-AIERAVI-050A12?style=for-the-badge&logo=linkedin&logoColor=00E5FF">
+  <img src="https://img.shields.io/badge/LinkedIn-AIERAVI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://www.youtube.com/@aieravi">
-<img src="https://img.shields.io/badge/YOUTUBE-AIERAVI-050A12?style=for-the-badge&logo=youtube&logoColor=00E5FF">
+  <img src="https://img.shields.io/badge/YouTube-AIERAVI-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
 <a href="https://www.instagram.com/aieravi">
-<img src="https://img.shields.io/badge/INSTAGRAM-@AIERAVI-050A12?style=for-the-badge&logo=instagram&logoColor=00E5FF">
+  <img src="https://img.shields.io/badge/Instagram-@AIERAVI-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<br><br>
+</div>
 
-<code>AIERAVI</code>
-&nbsp;·&nbsp;
-<code>AI ENGINEERING</code>
-&nbsp;·&nbsp;
-<code>MACHINE LEARNING</code>
-&nbsp;·&nbsp;
-<code>GENERATIVE AI</code>
+---
 
-<br><br>
+<div align="center">
 
-<sub>BUILD · LEARN · ITERATE · DEPLOY</sub>
+**Build. Learn. Iterate.**
 
 </div>
