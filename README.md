@@ -1,183 +1,149 @@
-<div align="center">
+# Hi, I'm RAVIKUMAR TARAR 👋
 
-# Hi, I'm Ravikumar Tarar
+### AI Engineer | Machine Learning | Generative AI | RAG
 
-### AI Engineer | Machine Learning | Generative AI
+I build practical AI systems that combine **Machine Learning, Deep Learning, Generative AI, Large Language Models, and Retrieval-Augmented Generation (RAG)** to solve real-world problems.
 
-<p>
-  <a href="https://github.com/AIERAVI">
-    <img src="https://img.shields.io/badge/GitHub-AIERAVI-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/aieravi">
-    <img src="https://img.shields.io/badge/LinkedIn-AIERAVI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.youtube.com/@aieravi">
-    <img src="https://img.shields.io/badge/YouTube-AIERAVI-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/aieravi">
-    <img src="https://img.shields.io/badge/Instagram-@AIERAVI-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</p>
-
-<p>
-  <a href="mailto:ravitarar.ai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-</p>
-
-</div>
+My focus is on building intelligent applications with **Python, AI/ML frameworks, APIs, cloud technologies, and modern LLM-based architectures.**
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I'm **Ravikumar Tarar**, an AI Engineer focused on building practical AI and machine learning applications.
+- 🤖 AI Engineer focused on building intelligent applications
+- 🧠 Interested in Machine Learning, Deep Learning & Generative AI
+- 📚 Working with LLMs, RAG & Document Intelligence
+- 👁️ Building Computer Vision and AI-powered systems
+- ☁️ Exploring Microsoft Azure and AI cloud solutions
+- 🛠️ Focused on practical projects and production-oriented AI engineering
 
-My areas of interest include:
+---
 
+## 🧠 Core Skills
+
+### Artificial Intelligence & Machine Learning
 - Machine Learning
-- Generative AI & LLMs
+- Deep Learning
+- Generative AI
+- Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
-- Document Intelligence
+- Natural Language Processing (NLP)
 - Computer Vision
 - AI Application Development
 
-I enjoy learning by building and turning AI concepts into practical projects.
+### Programming & Data
+- Python
+- NumPy
+- Pandas
+- Data Processing
+- Data Analysis
+
+### AI & Development Tools
+- Google Gemini
+- FastAPI
+- Flask
+- OpenCV
+- YOLO
+- Gradio
+- Git
+- GitHub
+
+### Cloud
+- Microsoft Azure
+- Azure AI / Machine Learning concepts
 
 ---
 
-## Tech Stack
+## 🔥 Featured Projects
 
-### Programming
+### 📄 Document Intelligence AI
+AI-powered document analysis and conversational question-answering system.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python">
+**Focus:** Document Intelligence · Gemini · LLM · Conversational AI
+
+---
+
+### 📚 Document Intelligence AI v2
+A document intelligence application with document processing, OCR, RAG-based question answering, report generation and PDF export.
+
+**Tech:** Python · FastAPI · Gemini API · RAG · OCR
+
+---
+
+### 👁️ Smart Surveillance AI
+Computer vision based surveillance system using object detection and motion detection with automated alerts.
+
+**Tech:** Python · OpenCV · YOLO · Computer Vision
+
+---
+
+### 📊 Data Analyzer AI
+Web-based data analysis application for processing and visualizing large datasets with automated reporting.
+
+**Tech:** Python · Flask · Pandas · NumPy · Chart.js
+
+---
+
+### 💬 Q&A Chatbot AI
+AI-powered question-answering application designed to provide conversational responses.
+
+**Tech:** Python · AI · NLP
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,git,github,fastapi,flask,azure,opencv" />
+
 </p>
 
-### Data & Visualization
+---
 
-`NumPy` · `Pandas` · `Matplotlib` · `Plotly`
+## 📌 Currently Focused On
 
-### Machine Learning
+```text
+Generative AI
+      ↓
+LLMs
+      ↓
+RAG
+      ↓
+AI Agents
+      ↓
+Production AI Applications
+```
 
-`Scikit-learn` · `Machine Learning` · `Model Development`
-
-### Generative AI
-
-`Generative AI` · `LLMs` · `RAG` · `Document Intelligence`
-
-### Computer Vision
-
-`YOLOv8` · `OpenCV` · `Object Detection` · `Real-time Vision`
-
-### AI Engineering
-
-`FastAPI` · `OCR` · `AI Applications` · `API Development`
+I am continuously improving my understanding of **AI system design, LLM applications, RAG pipelines, AI engineering, and deployment.**
 
 ---
 
-## Featured Projects
+## 📈 GitHub Activity
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### Document Intelligence AI
-
-**Repository:** `document-intelligence-v2`
-
-An AI-powered document intelligence project focused on extracting information from documents and enabling intelligent interaction with document content.
-
-**Technologies**
-
-`Python` `RAG` `LLM`  
-`Gemini` `FastAPI` `OCR`
-
-<br>
-
-<a href="https://github.com/AIERAVI/document-intelligence-v2">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### Smart Surveillance AI
-
-**Repository:** `Smart-Surveillance-AI`
-
-A computer vision based surveillance project for real-time monitoring, object detection, motion detection and automated alerts.
-
-**Technologies**
-
-`Python` `YOLOv8`  
-`OpenCV` `Computer Vision`
-
-<br>
-
-<a href="https://github.com/AIERAVI/Smart-Surveillance-AI">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-</tr>
-</table>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AIERAVI&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIERAVI&layout=compact&hide_border=true" height="170"/>
+</p>
 
 ---
 
-## Currently Exploring
+## 🤝 Connect With Me
 
-| Area | Focus |
-|---|---|
-| Machine Learning | Model development, evaluation and practical ML |
-| Generative AI | LLM applications and AI workflows |
-| RAG | Retrieval, embeddings and contextual generation |
-| Document Intelligence | Document understanding and information extraction |
-| Computer Vision | Object detection and real-time vision |
+<p align="left">
+
+<a href="https://github.com/AIERAVI">
+  <img src="https://img.shields.io/badge/GitHub-AIERAVI-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/aieravi/">
+  <img src="https://img.shields.io/badge/LinkedIn-AIERAVI-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+</p>
 
 ---
 
-## GitHub Statistics
+### ⚡ Building AI. Learning continuously. Solving real problems.
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AIERAVI&show_icons=true&hide_border=true&theme=default&include_all_commits=true" width="48%" alt="GitHub Statistics">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIERAVI&layout=compact&hide_border=true&theme=default" width="42%" alt="Top Languages">
-
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-<a href="mailto:ravitarar.ai@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ravitarar.ai%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/aieravi">
-  <img src="https://img.shields.io/badge/LinkedIn-AIERAVI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://www.youtube.com/@aieravi">
-  <img src="https://img.shields.io/badge/YouTube-AIERAVI-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-
-<a href="https://www.instagram.com/aieravi">
-  <img src="https://img.shields.io/badge/Instagram-@AIERAVI-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-**Build. Learn. Iterate.**
-
-</div>
+⭐ Feel free to explore my repositories and follow my journey in AI Engineering.
