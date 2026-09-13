@@ -18,17 +18,11 @@ I work primarily with **Python, AI APIs, backend frameworks, data technologies, 
 
 ## Tech Stack
 
+## Tech Stack
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,flask&perline=6" height="32" alt="AI and backend technologies"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas,postgresql,mysql,docker,git&perline=6" height="32" alt="Data and engineering technologies"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=github,azure,googlecloud,linux,vscode&perline=6" height="32" alt="Cloud and development technologies"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,flask,numpy,pandas,postgresql,mysql,docker,git,github,azure,googlecloud,linux,vscode&perline=17" height="40" alt="Tech Stack"/>
 
 </div>
 
