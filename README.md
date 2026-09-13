@@ -16,76 +16,95 @@ I work primarily with **Python, AI APIs, backend frameworks, data technologies, 
 
 ---
 
-## AI & Machine Learning
+## Tech Stack
 
-<div align="left">
+<div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42" title="PyTorch"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42" title="TensorFlow"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="42" title="OpenCV"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,flask&perline=6" height="52" alt="AI and backend technologies"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas,postgresql,mysql,docker,git&perline=6" height="52" alt="Data and engineering technologies"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=github,azure,googlecloud,linux,vscode&perline=5" height="52" alt="Cloud and development technologies"/>
 
 </div>
-
-`Machine Learning` · `Deep Learning` · `Generative AI` · `LLMs` · `RAG` · `NLP` · `Computer Vision` · `AI Agents`
 
 ---
 
-## Backend & Development
+## AI & Engineering
 
-<div align="left">
+<div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" title="FastAPI"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="42" title="Flask"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" title="GitHub"/>
+`Machine Learning` · `Deep Learning` · `Generative AI` · `LLMs` · `RAG`
+
+`NLP` · `Computer Vision` · `AI Agents` · `REST APIs` · `Data Processing`
 
 </div>
-
-`Python` · `FastAPI` · `Flask` · `REST APIs` · `Git` · `GitHub`
-
----
-
-## Data & Databases
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" title="NumPy"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" title="Pandas"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" title="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" title="MySQL"/>
-
-</div>
-
-`NumPy` · `Pandas` · `SQL` · `Data Processing` · `Data Analysis`
-
----
-
-## Cloud & Tools
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="42" title="Microsoft Azure"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" title="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" title="Linux"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" title="VS Code"/>
-
-</div>
-
-`Microsoft Azure` · `Azure AI` · `Azure Machine Learning` · `Google Gemini` · `Gradio` · `YOLO`
 
 ---
 
 ## Current Focus
 
-```text
-Generative AI
-      ↓
-LLMs
-      ↓
-RAG
-      ↓
-AI Agents
-      ↓
-Production AI Systems
+<div align="center">
+
+**GENERATIVE AI**  
+↓  
+**LLM APPLICATIONS**  
+↓  
+**RAG PIPELINES**  
+↓  
+**AI AGENTS**  
+↓  
+**PRODUCTION AI SYSTEMS**
+
+</div>
+
+Currently focused on **LLM applications, RAG pipelines, AI agents, AI system design, and production-oriented AI engineering.**
+
+---
+
+## Engineering Principles
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| Clean Architecture | Reliable APIs | Reproducible Workflows |
+| Practical AI | Secure Development | Continuous Learning |
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://github.com/AIERAVI">
+<img src="https://img.shields.io/badge/GitHub-AIERAVI-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aieravi/">
+<img src="https://img.shields.io/badge/LinkedIn-AIERAVI-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=AIERAVI&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `AI Engineering · ML · GenAI · RAG`
+
+</div>
