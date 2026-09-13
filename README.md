@@ -20,29 +20,32 @@ I work primarily with **Python, AI APIs, backend frameworks, data technologies, 
 
 <div align="center">
 
-<i class="devicon-python-plain colored" style="font-size: 42px;"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
 &nbsp;&nbsp;
-<i class="devicon-pytorch-original colored" style="font-size: 42px;"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
 &nbsp;&nbsp;
-<i class="devicon-tensorflow-original colored" style="font-size: 42px;"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
 &nbsp;&nbsp;
-<i class="devicon-opencv-plain colored" style="font-size: 42px;"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn"/>
 &nbsp;&nbsp;
-<i class="devicon-fastapi-plain colored" style="font-size: 42px;"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV"/>
 &nbsp;&nbsp;
-<i class="devicon-flask-original colored" style="font-size: 42px;"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
 &nbsp;&nbsp;
-<i class="devicon-numpy-plain colored" style="font-size: 42px;"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
 &nbsp;&nbsp;
-<i class="devicon-pandas-plain colored" style="font-size: 42px;"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
 &nbsp;&nbsp;
-<i class="devicon-docker-plain colored" style="font-size: 42px;"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40" alt="Flask"/>
 &nbsp;&nbsp;
-<i class="devicon-git-plain colored" style="font-size: 42px;"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
 &nbsp;&nbsp;
-<i class="devicon-github-original colored" style="font-size: 42px;"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
 
 </div>
+
 ---
 
 ## AI & Engineering
