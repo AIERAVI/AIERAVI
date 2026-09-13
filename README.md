@@ -20,7 +20,27 @@ I work primarily with **Python, AI APIs, backend frameworks, data technologies, 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,flask,numpy,pandas,postgresql,mysql,docker,git,github,azure,googlecloud,linux,vscode&perline=17" height="30" alt="Tech Stack"/>
+<i class="devicon-python-plain colored" style="font-size: 42px;"></i>
+&nbsp;&nbsp;
+<i class="devicon-pytorch-original colored" style="font-size: 42px;"></i>
+&nbsp;&nbsp;
+<i class="devicon-tensorflow-original colored" style="font-size: 42px;"></i>
+&nbsp;&nbsp;
+<i class="devicon-opencv-plain colored" style="font-size: 42px;"></i>
+&nbsp;&nbsp;
+<i class="devicon-fastapi-plain colored" style="font-size: 42px;"></i>
+&nbsp;&nbsp;
+<i class="devicon-flask-original colored" style="font-size: 42px;"></i>
+&nbsp;&nbsp;
+<i class="devicon-numpy-plain colored" style="font-size: 42px;"></i>
+&nbsp;&nbsp;
+<i class="devicon-pandas-plain colored" style="font-size: 42px;"></i>
+&nbsp;&nbsp;
+<i class="devicon-docker-plain colored" style="font-size: 42px;"></i>
+&nbsp;&nbsp;
+<i class="devicon-git-plain colored" style="font-size: 42px;"></i>
+&nbsp;&nbsp;
+<i class="devicon-github-original colored" style="font-size: 42px;"></i>
 
 </div>
 ---
