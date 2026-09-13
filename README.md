@@ -1,12 +1,8 @@
 <div align="center">
 
-<a href="https://github.com/AIERAVI">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0F172A&text=RAVIKUMAR%20TARAR&height=90&fontSize=42&fontAlignY=50&desc=AI%20Engineer%20%7C%20ML%20%7C%20GenAI%20%7C%20RAG&descAlignY=78&descSize=17" alt="RAVIKUMAR TARAR"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=38BDF8&text=RAVIKUMAR%20TARAR&height=100&fontSize=44&fontAlignY=50&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20%7C%20RAG&descAlignY=78&descSize=16&descColor=94A3B8" width="100%" alt="RAVIKUMAR TARAR"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=334155&center=true&vCenter=true&width=620&lines=Building+practical+AI+systems;LLMs+%7C+RAG+%7C+Computer+Vision;Python+%7C+FastAPI+%7C+Azure;Focused+on+reliable+AI+engineering" alt="Typing animation"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+practical+AI+systems;Machine+Learning+%7C+Deep+Learning;LLMs+%7C+RAG+%7C+Generative+AI;Computer+Vision+%7C+AI+Engineering" alt="Typing animation"/>
 
 </div>
 
@@ -16,93 +12,80 @@
 
 AI Engineer focused on building practical systems across **Machine Learning, Deep Learning, Generative AI, LLM applications, RAG, and Computer Vision**.
 
-I work primarily with **Python, modern AI APIs, backend frameworks, data pipelines, and cloud technologies**, with a focus on clean engineering and real-world use cases.
+I work primarily with **Python, AI APIs, backend frameworks, data technologies, and cloud platforms**, with a focus on building useful and reliable AI applications.
 
 ---
 
-## Core Stack
+## AI & Machine Learning
 
-### AI / Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" height="42" alt="AI and ML stack"/>
-</p>
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42" title="PyTorch"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42" title="TensorFlow"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="42" title="OpenCV"/>
+
+</div>
 
 `Machine Learning` · `Deep Learning` · `Generative AI` · `LLMs` · `RAG` · `NLP` · `Computer Vision` · `AI Agents`
 
-### Languages & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,cpp,git,github" height="42" alt="Languages and backend stack"/>
-</p>
+---
+
+## Backend & Development
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" title="FastAPI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="42" title="Flask"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" title="GitHub"/>
+
+</div>
 
 `Python` · `FastAPI` · `Flask` · `REST APIs` · `Git` · `GitHub`
 
-### Data & Engineering
-<p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,postgresql,mysql,docker" height="42" alt="Data and engineering stack"/>
-</p>
+---
 
-`NumPy` · `Pandas` · `SQL` · `Data Processing` · `Data Analysis` · `Docker`
+## Data & Databases
 
-### AI Platforms & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,googlecloud,linux,vscode" height="42" alt="Cloud and tools stack"/>
-</p>
+<div align="left">
 
-`Google Gemini` · `Azure AI` · `Azure Machine Learning` · `Gradio` · `YOLO` · `OpenCV`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" title="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" title="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" title="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" title="MySQL"/>
+
+</div>
+
+`NumPy` · `Pandas` · `SQL` · `Data Processing` · `Data Analysis`
+
+---
+
+## Cloud & Tools
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="42" title="Microsoft Azure"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" title="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" title="VS Code"/>
+
+</div>
+
+`Microsoft Azure` · `Azure AI` · `Azure Machine Learning` · `Google Gemini` · `Gradio` · `YOLO`
 
 ---
 
 ## Current Focus
 
-`Generative AI`  `LLM Applications`  `RAG Pipelines`  `AI Agents`  `AI System Design`  `Deployment`
-
----
-
-## Engineering Principles
-
-<table>
-<tr>
-<td>Clean Architecture</td>
-<td>Reliable APIs</td>
-<td>Reproducible Workflows</td>
-</tr>
-<tr>
-<td>Practical AI</td>
-<td>Secure Development</td>
-<td>Continuous Learning</td>
-</tr>
-</table>
-
----
-
-## GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AIERAVI&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIERAVI&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AIERAVI&hide_border=true" height="165" alt="GitHub streak"/>
-</p>
-
----
-
-## Connect
-
-<p>
-  <a href="https://github.com/AIERAVI">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aieravi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-
-`AI Engineering · ML · GenAI · RAG`
-
-</div>
+```text
+Generative AI
+      ↓
+LLMs
+      ↓
+RAG
+      ↓
+AI Agents
+      ↓
+Production AI Systems
